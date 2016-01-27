@@ -7,7 +7,14 @@ group :development, :test do
   gem 'sqlite3'
 end
 
+#custom gems for building this app
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'devise'
+gem 'bcrypt-ruby', "~> 3.0.0"
+gem 'simple_form'
+
+
+
 
 gem 'rails', '4.2.5'
 gem 'sass-rails', '~> 5.0'
