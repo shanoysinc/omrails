@@ -5,4 +5,5 @@ class User < ActiveRecord::Base
           :rememberable, :trackable, :validatable #:recoverable,
 
   #attr_accessible :name
+  has_many :pins
 end
