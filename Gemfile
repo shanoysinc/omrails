@@ -12,8 +12,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'devise'
 gem 'bcrypt-ruby', "~> 3.0.0"
 gem 'simple_form'
-
-
+gem "paperclip", "~> 3.0"
+gem "cocaine", "~> 0.4.2"
 
 
 gem 'rails', '4.2.5'
